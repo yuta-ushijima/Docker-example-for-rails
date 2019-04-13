@@ -1,0 +1,10 @@
+example_id                                | status | run_time        |
+----------------------------------------- | ------ | --------------- |
+./spec/mailers/task_mailer_spec.rb[1:1:1] | passed | 0.0082 seconds  |
+./spec/system/tasks_spec.rb[1:1:1:1]      | passed | 0.54298 seconds |
+./spec/system/tasks_spec.rb[1:1:2:1]      | passed | 0.47242 seconds |
+./spec/system/tasks_spec.rb[1:2:1:1:1]    | passed | 1.67 seconds    |
+./spec/system/tasks_spec.rb[1:2:2:1]      | passed | 0.25671 seconds |
+./spec/system/tasks_spec.rb[1:3:1:1]      | passed | 0.37583 seconds |
+./spec/system/tasks_spec.rb[1:4:1:1:1]    | passed | 0.2572 seconds  |
+./spec/system/tasks_spec.rb[1:5:1:1]      | passed | 0.31461 seconds |
