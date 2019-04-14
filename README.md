@@ -10,6 +10,8 @@ $ bundle install --jobs=4 --path vendor/bundle
 
 ### Database creation
 ```bash
+$ cp config/database.yml.local.sample config/database.yml
+# After edit config/database.yml, execute below
 $ bin/rails db:setup
 ```
 
